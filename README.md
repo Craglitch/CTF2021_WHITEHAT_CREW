@@ -7,7 +7,9 @@ dan decrypted guna online tools ;-;
 
 
 Botak 
-Saya bruteforce \n
+
+Saya bruteforce 
+
 Sampai dapat ;-; penat tahu
 
 ### Forensic
@@ -35,7 +37,7 @@ termshark
 
 7. Dapat flags di row 5 what worry me ? Seingat saya
 
-
+####---------------------------------------
 
 
 
