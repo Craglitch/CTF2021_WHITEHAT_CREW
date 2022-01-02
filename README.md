@@ -6,7 +6,7 @@ dan decrypted guna online tools ;-;
 
 
 
-Botak 
+###### Botak 
 
 Saya bruteforce 
 
@@ -14,7 +14,7 @@ Sampai dapat ;-; penat tahu
 
 ### Forensic
 
-Bengineer forensic
+###### Bengineer forensic
 
 0. Download .7z
 
@@ -31,17 +31,38 @@ Bengineer forensic
 ```bash
 termshark
 ```
-5. Pilah file pcap
+5. Pilih file pcap
 
 6. Mula analisa tcp stream
 
 7. Dapat flags di row 5 what worry me ? Seingat saya
 
-####---------------------------------------
 
 
+######Topi Putih
+
+0. Download .7z
+
+1. Buka termux ( saya guna termux )
+
+2. Unarchive guna
+```bash
+7z x file.7z
+```
+
+3. Dapat file .jpeg atau .png extension seingat saya
+
+4. Vim file tersebut jangan panik ;-; saya bukan machine
+
+5. Tekan Escape key lepas itu type
+```
+/WHC{
+```
+
+6. Dapat flags :) cools
 
 
+ 
 
 
 
