@@ -7,7 +7,7 @@ dan decrypted guna online tools ;-;
 
 
 Botak 
-Saya bruteforce 
+Saya bruteforce \n
 Sampai dapat ;-; penat tahu
 
 ### Forensic
