@@ -13,19 +13,27 @@ Sampai dapat ;-; penat tahu
 ### Forensic
 
 Bengineer forensic
+
 0. Download .7z
+
 1. Buka termux ( saya guna termux )
+
 2. Unarchive guna
-```
+```bash
 7z x file.7z
 ```
+
 3. Dapat file pcap
+
 4. Guna termshark
-```
+```bash
 termshark
 ```
-5. Mula analisa tcp stream
-6. Dapat flags di row 5 what worry me ? Seingat saya
+5. Pilah file pcap
+
+6. Mula analisa tcp stream
+
+7. Dapat flags di row 5 what worry me ? Seingat saya
 
 
 
