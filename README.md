@@ -35,7 +35,7 @@ termshark
 
 6. Mula analisa tcp stream
 
-7. Dapat flags di row 5 what worry me ? Seingat saya
+7. Dapat flags di row 4 string "what worry me ?"
 
 
 
