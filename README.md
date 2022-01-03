@@ -66,7 +66,7 @@ termshark
 
 
 
-####### Walk in the park
+###### Walk in the park
 
 0. Download 7z
 1. Unarchive 7z guna 7z x seperti biasa
