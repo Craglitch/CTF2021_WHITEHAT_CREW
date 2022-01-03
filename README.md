@@ -4,12 +4,14 @@ Cryptography ialah seni menyembunyikan sebuah
 data dengan cara mengenkrepsi : jenis jenis enkrypsi
 
 Secret key
+
 Public key
+
 Hash Key
 
 ###### Bengineer Cryptography 
-
 ![image not available](sk)
+
 0. Download dan unarchive 7z dan buka termux
 1. copy hash encryption base64
 2. Decrypted guna online tools ;-;
@@ -18,8 +20,8 @@ Hash Key
 
 
 ###### Botak
-
 ![image](https://github.com/Craglitch/CTF2021_WHITEHAT_CREW/blob/main/Screenshot_2022-01-03-12-54-28-11.jpg)
+
 0. Download unarchive buka termux
 1. Analysis pythin code
 2. Kena rick rolled
