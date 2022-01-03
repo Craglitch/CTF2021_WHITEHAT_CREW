@@ -11,7 +11,7 @@
 
 ###### Botak
 
-
+![image](https://github.com/Craglitch/CTF2021_WHITEHAT_CREW/blob/main/Screenshot_2022-01-03-12-54-28-11.jpg)
 0. Download unarchive buka termux
 1. Analysis pythin code
 2. Kena rick rolled
