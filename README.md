@@ -78,7 +78,7 @@ termshark
 
 ### Dark Web
 ###### Tor paste
-
+![images](https://github.com/Craglitch/WHCCTF-POC_Writeup/blob/main/Screenshot_2022-01-03-12-11-28-42.jpg?raw=true)
 0. Copy link dark web
 1. Buka tor browser
 2. Tungu proxy siap
