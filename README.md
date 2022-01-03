@@ -80,6 +80,19 @@ termshark
 6. Dapat flags :) cools
 
 
+
+####### Walk in the park
+
+0. Download 7z
+
+1. Unarchive 7z guna 7z x seperti biasa
+
+2. Tada hint apa apa jadi ini stegnography
+
+3. Pergi online tools untuk stegnography
+
+4. Dapat Flags WHC{
+
  
 
 
