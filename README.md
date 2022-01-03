@@ -16,7 +16,7 @@ Sampai dapat ;-; penat tahu
 Saya kena rickrolled juga
 
 ###### anencephaly
-1. Cara type encryption
+1. Cari type encryption
 
 2. Decrypted base64
 
