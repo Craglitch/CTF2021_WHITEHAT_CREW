@@ -69,6 +69,7 @@ termshark
 
 ###### Walk in the park
 ![image](https://github.com/Craglitch/WHCCTF-POC_Writeup/blob/main/Screenshot_2022-01-03-11-39-04-78.jpg?raw=true)
+
 0. Download 7z
 1. Unarchive 7z guna 7z x seperti biasa
 2. Tada hint apa apa jadi ini stegnography
