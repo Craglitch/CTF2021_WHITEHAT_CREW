@@ -50,6 +50,7 @@ termshark
 
 ###### Topi Putih
 
+![image](https://github.com/Craglitch/WHCCTF-POC_Writeup/blob/main/IMG_20220102_190846.jpg?raw=true)
 0. Download .7z
 1. Buka termux
 2. Unarchive guna
