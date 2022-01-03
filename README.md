@@ -102,6 +102,18 @@ termshark
 3. Paste link : http://torpastezr7464pevuvdjisbvaf4yqi4n7sgz7lkwgqwxznwy5duj4ad.onion/aRr1wftJbeX7cMjQ/
 4. Dapat flag : WHC{D4RK_W3B_B3G1NN3R}
  
+### reversing
+##### baby ransom
+![image](https://github.com/Craglitch/CTF2021_WHITEHAT_CREW/blob/main/IMG_20220103_204222.jpg)
+
+1. download unarchive seperti biasa
+2. Analysis folder 
+3. Jumpa paskey dan baca dapat base 64
+4. file python yang guna fernet 
+5. Decode mengunakan key ejC37law3yVEfKjy0MkCmjNGdmJu-golZbEssy9vIJo=
+6. Dapat file decrypte.py
+7. Ada flags  ;-; dan menang
+
 
 
 
