@@ -44,9 +44,10 @@ unclePenatLahSiapaBuatNiMemangNakKenaPukul
 
 ###### XORing
 
+
 0. Download dan unarchive 7z dan buka termux
 1. Vim untuk mencari key dan msg
-2. Decrypted dapat key
+2. Decrypted dapat flags : WHC{X0R40BFUSC4T10N}
 
 
 ### Forensic
@@ -68,6 +69,7 @@ termshark
 5. Pilih file pcap
 6. Mula analisa tcp stream
 7. Dapat flags di row 4 string "what worry me ?".
+8. flag : WHC{4:what worry me ?}
 
 
 
@@ -86,7 +88,7 @@ termshark
 ```
 /WHC{
 ```
-6. Dapat flags :) cools
+6. Dapat flag : WHC{wh1t3_h4t_cr3w!}
 
 
 
@@ -97,7 +99,7 @@ termshark
 1. Unarchive 7z guna 7z x seperti biasa
 2. Tada hint apa apa jadi ini stegnography
 3. Pergi online tools untuk stegnography
-4. Dapat Flags WHC{
+4. Dapat Flag : WHC{THE_CLASSIC_STEGANOGRAPHY_EH)
 
 ### Dark Web
 ###### Tor paste
@@ -107,7 +109,7 @@ termshark
 1. Buka tor browser
 2. Tungu proxy siap
 3. Paste link : http://torpastezr7464pevuvdjisbvaf4yqi4n7sgz7lkwgqwxznwy5duj4ad.onion/aRr1wftJbeX7cMjQ/
-
+4. Dapat flag : WHC{D4RK_W3B_B3G1NN3R}
  
 
 
