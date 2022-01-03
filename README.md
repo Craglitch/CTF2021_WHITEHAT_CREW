@@ -13,6 +13,8 @@ Saya bruteforce
 
 Sampai dapat ;-; penat tahu
 
+Saya kena rickrolled juga
+
 ###### anencephaly
 1. Cara type encryption
 
