@@ -1,5 +1,12 @@
-## Commiting POC for whc ctf
-### Cryptography Section
+## Craglitch want became part of dfm whitehat crew
+### Cryptography
+Cryptography ialah seni menyembunyikan sebuah
+data dengan cara mengenkrepsi : jenis jenis enkrypsi
+
+Secret key
+Public key
+Hash Key
+
 ###### Bengineer Cryptography 
 
 0. Download dan unarchive 7z dan buka termux
@@ -31,6 +38,9 @@ unclePenatLahSiapaBuatNiMemangNakKenaPukul
 5. Dapat base64 lagi ;-;
 6. Decrypted lagi
 7. Dapat flags : WHC{APA_KAITAN_DO}
+
+###### XORing
+
 
 ### Forensic
 
