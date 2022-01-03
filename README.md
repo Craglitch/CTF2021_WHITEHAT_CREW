@@ -9,6 +9,7 @@ Hash Key
 
 ###### Bengineer Cryptography 
 
+![image not available](sk)
 0. Download dan unarchive 7z dan buka termux
 1. copy hash encryption base64
 2. Decrypted guna online tools ;-;
@@ -40,6 +41,10 @@ unclePenatLahSiapaBuatNiMemangNakKenaPukul
 7. Dapat flags : WHC{APA_KAITAN_DO}
 
 ###### XORing
+
+0. Download dan unarchive 7z dan buka termux
+1. Vim untuk mencari key dan msg
+2. Decrypted dapat key
 
 
 ### Forensic
