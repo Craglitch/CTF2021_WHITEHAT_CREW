@@ -1,6 +1,7 @@
 ## Commiting POC for whc ctf
 ### Cryptography Section
 ###### Bengineer Cryptography 
+
 0. Download dan unarchive 7z dan buka termux
 1. copy hash encryption base64
 2. Decrypted guna online tools ;-;
@@ -19,6 +20,7 @@ Saya kena rickrolled juga
 
 ###### anencephaly
 ![Image](https://github.com/Craglitch/WHCCTF-POC_Writeup/blob/main/Screenshot_2022-01-03-11-40-27-52.jpg?raw=true)
+
 0. Download dan unarchive 7z dan buka termux
 1. Cari type encryption
 2. Decrypted base64
@@ -32,6 +34,7 @@ Saya kena rickrolled juga
 
 ###### Bengineer forensic
 ![image](https://github.com/Craglitch/WHCCTF-POC_Writeup/blob/main/IMG_20220103_105209.jpg?raw=true)
+
 0. Download .7z
 1. Buka termux ( saya guna termux )
 2. Unarchive guna
@@ -51,6 +54,7 @@ termshark
 
 ###### Topi Putih
 ![image](https://github.com/Craglitch/WHCCTF-POC_Writeup/blob/main/IMG_20220102_190846.jpg?raw=true)
+
 0. Download .7z
 1. Buka termux
 2. Unarchive guna
@@ -79,6 +83,7 @@ termshark
 ### Dark Web
 ###### Tor paste
 ![images](https://github.com/Craglitch/WHCCTF-POC_Writeup/blob/main/Screenshot_2022-01-03-12-11-28-42.jpg?raw=true)
+
 0. Copy link dark web
 1. Buka tor browser
 2. Tungu proxy siap
