@@ -76,6 +76,14 @@ termshark
 3. Pergi online tools untuk stegnography
 4. Dapat Flags WHC{
 
+### Dark Web
+###### Tor paste
+
+0. Copy link dark web
+1. Buka tor browser
+2. Tungu proxy siap
+3. Paste link : http://torpastezr7464pevuvdjisbvaf4yqi4n7sgz7lkwgqwxznwy5duj4ad.onion/aRr1wftJbeX7cMjQ/
+
  
 
 
