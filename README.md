@@ -1,8 +1,9 @@
 ## Commiting POC for whc ctf
 ### Cryptography Section
-Bengineer Cryptography 
-saya copy hash encryption base64
-dan decrypted guna online tools ;-;
+###### Bengineer Cryptography 
+0. copy hash encryption base64
+1. Decrypted guna online tools ;-;
+3. Dpat flags memang overated ;-;
 
 
 
@@ -11,6 +12,21 @@ dan decrypted guna online tools ;-;
 Saya bruteforce 
 
 Sampai dapat ;-; penat tahu
+
+###### anencephaly
+1. Cara type encryption
+
+2. Decrypted base64
+
+3. Dapat brainf*ck ( saya suka koding saya kenal brainfuck ;-;)
+
+4. Decode atau run di online tools
+
+5. Dapat base64 lagi ;-;
+
+6. Decrypted lagi
+
+7. Dapat flags : WHC{APA_KAITAN_DO}
 
 ### Forensic
 
