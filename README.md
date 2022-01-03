@@ -1,8 +1,9 @@
 ## Commiting POC for whc ctf
 ### Cryptography Section
 ###### Bengineer Cryptography 
-0. copy hash encryption base64
-1. Decrypted guna online tools ;-;
+0. Download dan unarchive 7z
+1. copy hash encryption base64
+2. Decrypted guna online tools ;-;
 3. Dpat flags memang overated ;-;
 
 
@@ -16,18 +17,13 @@ Sampai dapat ;-; penat tahu
 Saya kena rickrolled juga
 
 ###### anencephaly
+0. Download dan unarchive 7z
 1. Cari type encryption
-
 2. Decrypted base64
-
 3. Dapat brainf*ck ( saya suka koding saya kenal brainfuck ;-;)
-
 4. Decode atau run di online tools
-
 5. Dapat base64 lagi ;-;
-
 6. Decrypted lagi
-
 7. Dapat flags : WHC{APA_KAITAN_DO}
 
 ### Forensic
