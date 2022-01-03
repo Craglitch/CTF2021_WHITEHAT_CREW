@@ -111,7 +111,7 @@ termshark
 3. Jumpa paskey dan baca dapat base 64
 4. file python yang guna fernet 
 5. Decode mengunakan key ejC37law3yVEfKjy0MkCmjNGdmJu-golZbEssy9vIJo=
-6. Dapat file decrypte.py
+6. tukar file.py tu paste key dapat dah decrypted
 7. Ada flags  ;-; dan menang
 
 
