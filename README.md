@@ -18,6 +18,7 @@ Saya kena rickrolled juga
 
 
 ###### anencephaly
+![Image](https://github.com/Craglitch/WHCCTF-POC_Writeup/blob/main/Screenshot_2022-01-03-11-40-27-52.jpg?raw=true)
 0. Download dan unarchive 7z dan buka termux
 1. Cari type encryption
 2. Decrypted base64
@@ -27,13 +28,9 @@ Saya kena rickrolled juga
 6. Decrypted lagi
 7. Dapat flags : WHC{APA_KAITAN_DO}
 
-###### XORing
-
 ### Forensic
 
 ###### Bengineer forensic
-
-
 ![image](https://github.com/Craglitch/WHCCTF-POC_Writeup/blob/main/IMG_20220103_105209.jpg?raw=true)
 0. Download .7z
 1. Buka termux ( saya guna termux )
@@ -53,8 +50,6 @@ termshark
 
 
 ###### Topi Putih
-
-
 ![image](https://github.com/Craglitch/WHCCTF-POC_Writeup/blob/main/IMG_20220102_190846.jpg?raw=true)
 0. Download .7z
 1. Buka termux
@@ -73,7 +68,6 @@ termshark
 
 
 ###### Walk in the park
-
 ![image](https://github.com/Craglitch/WHCCTF-POC_Writeup/blob/main/Screenshot_2022-01-03-11-39-04-78.jpg?raw=true)
 0. Download 7z
 1. Unarchive 7z guna 7z x seperti biasa
