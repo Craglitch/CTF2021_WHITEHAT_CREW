@@ -1,14 +1,5 @@
 ## Craglitch want became part of dfm whitehat crew
 ### Cryptography
-Cryptography ialah seni menyembunyikan sebuah
-data dengan cara mengenkrepsi : jenis jenis enkrypsi
-
-Secret key
-
-Public key
-
-Hash Key
-
 ###### Bengineer Cryptography 
 ![image not available](sk)
 
