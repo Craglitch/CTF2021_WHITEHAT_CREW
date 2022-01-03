@@ -9,14 +9,14 @@
 
 
 
-###### Botak 
+###### Botak
 
-Saya bruteforce 
 
-Sampai dapat ;-; penat tahu
-
-Saya kena rickrolled juga
-
+0. Download unarchive buka termux
+1. Analysis pythin code
+2. Kena rick rolled
+3. Jumpa hash encryption type ceaser code
+4. Decrypted dapat flags : 
 
 ###### anencephaly
 ![Image](https://github.com/Craglitch/WHCCTF-POC_Writeup/blob/main/Screenshot_2022-01-03-11-40-27-52.jpg?raw=true)
