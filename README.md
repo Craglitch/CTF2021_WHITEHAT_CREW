@@ -43,7 +43,7 @@ unclePenatLahSiapaBuatNiMemangNakKenaPukul
 7. Dapat flags : WHC{APA_KAITAN_DO}
 
 ###### XORing
-
+![images](https://github.com/Craglitch/CTF2021_WHITEHAT_CREW/blob/main/IMG_20220103_130837.jpg?raw=true)
 
 0. Download dan unarchive 7z dan buka termux
 1. Vim untuk mencari key dan msg
